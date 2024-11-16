@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Li's Blog
+title: Li's Blog
+description: Li's Blog
 tags:
   - blog
   - template
@@ -19,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: lizhang200102@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
