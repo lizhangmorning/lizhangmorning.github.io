@@ -1,23 +1,23 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2024-11-16 12:09:05
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Welcome to the inverted ocean
+subtitle: 'Murmurs and The Hours Between Dreams'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://res.cloudinary.com/deluzy66b/image/upload/c_fill,w_760,h_339/v1731792815/head_abzcjc.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://res.cloudinary.com/deluzy66b/image/upload/c_fill,w_380,h_200/v1731792815/head_abzcjc.png
 category: blog
 tags:
   - welcome
   - blog
-author: mranderson
+author: Li
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+看看中文行不行 <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
