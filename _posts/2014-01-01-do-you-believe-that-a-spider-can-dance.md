@@ -1,75 +1,154 @@
 ---
 date: 2024-11-16 12:00:00
 layout: post
-title: Quick overview of the journey to Japan
+title: My Journey to Japan - A Travel Diary
 subtitle: Tokyo, Kamakura, Kyoto, Uji, Nara, Osaka
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 category: travel
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
+image: https://res.cloudinary.com/deluzy66b/image/upload/c_fill,w_760,h_399/v1731816360/Screenshot_2024-11-16_at_12.44.42_PM_hvqf7v.png
+optimized_image: https://res.cloudinary.com/deluzy66b/image/upload/c_fill,w_380,h_200/v1731816360/Screenshot_2024-11-16_at_12.44.42_PM_hvqf7v.png
 tags:
   - fate
   - travel
 author: Li
 ---
 
-## My Journey to Japan: A Travel Diary
-
 **September 5 - 15, 2024**  
 A whirlwind trip through Tokyo, Kamakura, Kyoto, Uji, Nara, and Osaka.
 
 ---
 
-### Highlights
-- **Tokyo**: Akihabara, Shibuya, Tokyo Tower  
-- **Kamakura**: Enoshima, Kamakura Daibutsu  
-- **Kyoto**: Fushimi Inari, Gion, Kiyomizu-dera  
-- **Nara**: Nara Park, Todai-ji Temple  
-- **Osaka**: Osaka Castle, Dotonbori  
+## Key destinations
+
+- **Tokyo**:
+  - Sensoji Temple & Kaminarimon
+  - Akihabara (Surugaya, Don Quijote, BicCamera, Yodobashi)
+  - Ueno Park & Tokyo National Museum
+  - Shibuya (Parco, Kiddyland, Tower Records)
+  - Tokyo Tower (viewed from Roppongi Hills)
+  - Shinjuku (Lumine Est.)
+  - Ikebukuro (Sunshine City)
+  - Ginza
+
+- **Kamakura & Enoshima**:
+  - Great Buddha (Daibutsu)
+  - Enoshima Island & Caves
+  - Kamakura High School
+  - Enoden Railway Experience
+
+- **Kyoto**:
+  - Kiyomizu-dera Temple
+  - Ninenzaka & Sannenzaka
+  - Gion (Hanami-koji Street)
+  - Yasaka Shrine
+  - Fushimi Inari Shrine
+  - Tofukuji Temple
+  - Sanjusangendo Temple
+  - Eikando Temple
+  - Sanzenin Temple
+  - Shimogamo Shrine
+  - Kinkakuji (Golden Pavilion)
+
+- **Uji**:
+  - Matcha Street
+  - Byodoin Temple
+  - Murasaki Shikibu Statue
+
+- **Nara**:
+  - Todaiji Temple
+  - Nara Park
+
+- **Osaka**:
+  - Osaka Castle Park & Castle Tower
+  - Osaka Aquarium Kaiyukan
+  - Umeda
+  - Shinsaibashi
+  - Dotonbori
+
 
 ---
 
-## Day-by-Day Details
+## Photos
 
-<details>
-<summary>Click to expand/collapse daily itinerary</summary>
+<div class="photo-masonry">
+  <div class="photo-item"><img src="https://res.cloudinary.com/deluzy66b/image/upload/v1731818535/Tokyo_street_vwureh.png" alt="tokyo1" title="tokyo1"></div>
+  <div class="photo-item"><img src="https://res.cloudinary.com/deluzy66b/image/upload/v1731823354/IMG_4456_xzvdpu.png" alt="tokyo2" title="tokyo2"></div>
+  <div class="photo-item"><img src="https://res.cloudinary.com/deluzy66b/image/upload/v1731816360/Screenshot_2024-11-16_at_12.44.42_PM_hvqf7v.png" alt="tokyo3" title="tokyo3"></div>
+  <div class="photo-item"><img src="https://res.cloudinary.com/deluzy66b/image/upload/v1731816360/Screenshot_2024-11-16_at_12.44.42_PM_hvqf7v.png" alt="tokyo4" title="tokyo4"></div>
+  <div class="photo-item"><img src="https://res.cloudinary.com/deluzy66b/image/upload/v1731825421/IMG_5538_hy55ff.jpg" alt="tokyo5" title="tokyo5"></div>
+</div>
 
-### Day 1-3: Tokyo
-- Arrived at Narita Airport
-- Explored Akihabara's electronics and anime shops
-- Visited Shibuya Crossing and Hachiko statue
-- Evening views from Tokyo Tower
+<style>
+.photo-masonry {
+  column-count: 2;
+  column-gap: 1.5rem;
+  margin: 2rem 0;
+  max-width: 2500px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
-### Day 4: Kamakura
-- Day trip to Kamakura
-- Visited the Great Buddha (Daibutsu)
-- Explored Enoshima Island
+.photo-item {
+  break-inside: avoid;
+  margin-bottom: 1.5rem;
+}
 
-### Day 5-7: Kyoto
-- Took Shinkansen to Kyoto
-- Early morning visit to Fushimi Inari
-- Explored Gion district
-- Temple visits including Kiyomizu-dera
+.photo-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  transition: transform 0.3s;
+}
 
-### Day 8: Nara
-- Day trip to Nara
-- Fed deer in Nara Park
-- Visited Todai-ji Temple
+.photo-item img:hover {
+  transform: scale(1.02);
+}
+</style>
 
-### Day 9-10: Osaka
-- Shopping in Dotonbori
-- Visited Osaka Castle
-- Final night enjoying local street food
+---
 
-</details>
+
+
+## Transportation Tips
+- Consider the 72-hour Tokyo pass if focusing on tourist spots (note: doesn't cover JR trains)
+- Kyoto: Renting bicycles is convenient
+- Use IC cards (Pasmo/Suica) for easy travel
+
+## Shopping Highlights
+- Best areas: Akihabara (electronics), Shibuya (fashion)
+- Don't miss: Largest gashapon store in Tokyo (Sunshine City, Ikebukuro)
+- Popular characters: Chiikawa, Miffy, Snoopy (found in most Parco stores)
+
+## Food Recommendations
+- Must-try: Red Rock beef bowl in Osaka
+- Interesting experience: Grind-your-own-sesame tonkatsu in Kyoto
+- Quick eats: Ichiran Ramen, takoyaki in Dotonbori
+
+
+## Time-Saving Tips
+- Many shops close at 8 PM (especially in Ginza)
+- Plan temple visits in Kyoto efficiently - they're spread out
+- Consider weather when planning outdoor activities (especially for Kamakura/Enoshima)
+
 
 ---
 
-## Tips for Travelers
+## My video 
 
-1. **Transportation**: Consider a 72-hour Tokyo Metro pass. It saves money for heavy metro use.
-2. **Coins**: Keep a small coin purse for vending machines, laundry, and small purchases.
-3. **Sun Protection**: If visiting during summer, carry sunscreen and stay hydrated.
+I should edit each video for my each trip but end up combining them all! XD
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BvK-A1k-__0?si=E-1wHSe2RCLGNb27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ---
+
+## Important Tips
+
+- Check-in time is usually 3:00 PM
+
+- Prepare a small wallet for coins - you'll need them frequently for laundry and small purchases. You can use excess coins at convenience stores.
+
+---
+
 
