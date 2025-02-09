@@ -5,9 +5,8 @@ title: The Place I Once Knew
 subtitle: Back to a vanished home
 description: What was once a home is now rubble, yet the memories remain—fragile, persistent, waiting to be remembered in fleeting moments of nostalgia.
 category: life
-image: https://res.cloudinary.com/deluzy66b/image/upload/v1739126071/frames_of_perfect_days-photos_of_trees_leibyi.jpg
-optimized_image: https://res.cloudinary.com/deluzy66b/image/upload/v1739126071/frames_of_perfect_days-photos_of_trees_leibyi.jpg
-tags:
+image: https://res.cloudinary.com/deluzy66b/image/upload/c_fill,w_760,h_399/v1739126071/frames_of_perfect_days-photos_of_trees_leibyi.jpg
+optimized_image: https://res.cloudinary.com/deluzy66b/image/upload/c_fill,w_760,h_399/v1739126071/frames_of_perfect_days-photos_of_trees_leibyi.jpg
   - life
 author: Li
 ---
