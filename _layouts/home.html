@@ -17,7 +17,12 @@ layout: main
 <main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
-        {% assign featured = posts.first %}
+        {% assign hero_post = posts | where: "hero", "true" | first %}
+        {% assign non_hero_posts = posts | where_exp:"post", "post.hero != true" %}
+        {% assign featured = hero_post %}
+
+
+
         <section class="hero" style="background-image: url({{ featured.image }})">
             <div class="pixels"></div>
             <div class="gradient"></div>
@@ -42,7 +47,7 @@ layout: main
     {% endif %}
     <!-- Posts -->
     <section id="grid" class="row flex-grid">
-        {% for post in posts offset: offset %}
+        {% for post in non_hero_posts %}
             <article class="box-item">
                 <span class="category">
                     <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">

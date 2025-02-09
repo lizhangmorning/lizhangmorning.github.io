@@ -9,6 +9,7 @@ tags:
   - theme
   - netlify
 show_hero: true
+hero_post: 2010-01-01-welcome-to-the-desert-of-the-real
 menu:
   - title: Home
     url: /

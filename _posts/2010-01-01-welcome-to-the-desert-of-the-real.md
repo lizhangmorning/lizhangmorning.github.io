@@ -1,6 +1,7 @@
 ---
 date: 2024-11-16 12:09:05
 layout: post
+hero: true
 title: Welcome to the inverted ocean
 subtitle: 'Murmurs and The Hours Between Dreams'
 description: >-
@@ -17,6 +18,7 @@ tags:
 author: Li
 paginate: true
 ---
+
 看看中文行不行 <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
